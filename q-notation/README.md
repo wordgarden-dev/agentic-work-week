@@ -4,6 +4,8 @@
 
 > "Hard C/K sounds → Q: A linguistic pattern that makes automation levels legible"
 
+**Quick links**: [Quick Reference](QUICKREF.md) | [Theory](THEORY.md) | [Examples](EXAMPLES.md) | [Contributing](CONTRIBUTING.md)
+
 ---
 
 ## What is Q-notation?
@@ -361,6 +363,24 @@ Q-notation welcomes evolution along multiple vectors:
 
 ---
 
+## Navigation
+
+### Q-notation Documentation
+
+- **[QUICKREF.md](QUICKREF.md)** - One-page quick reference guide
+- **[THEORY.md](THEORY.md)** - Deep theoretical foundations (Hofstadter, Levenshtein, homophones)
+- **[EXAMPLES.md](EXAMPLES.md)** - Practical applications, code samples, use cases
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute to Q-notation evolution
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and evolution
+
+### Related Documentation
+
+- **[Parent: Agentic Work Week](../)** - AWW framework that uses Q-notation
+- **[AWW README](../README.md)** - Overview of temporal productivity framework
+- **[AWW FICTION](../FICTION.md)** - Fiction-Driven Development philosophy
+
+---
+
 ## Status
 
 **Current**: v0.1.0 - Initial theoretical framework  
@@ -371,7 +391,7 @@ Q-notation welcomes evolution along multiple vectors:
 
 ## License
 
-MIT License - See parent repository for details
+MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
